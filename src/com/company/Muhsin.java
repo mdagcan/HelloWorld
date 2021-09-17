@@ -9,7 +9,7 @@ public class Muhsin {
         System.out.print("OYUNCU 1 klavyeden 1 ile 250 arasında sayı girin :");
         int oyuncuBirSayisi = tara.nextInt();
         for (int i = 0 ; i < 100 ; i++) {
-            System.out.println("OYUN BAŞLADI...");
+            System.out.println("OYUN BAŞLADI ÇOKTAN...");
         }
 
         System.out.println("OYUNCU 1 sayısını yazdı, sıra sende OYUNCU 2");
