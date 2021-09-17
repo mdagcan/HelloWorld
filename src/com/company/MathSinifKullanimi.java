@@ -32,6 +32,7 @@ public class MathSinifKullanimi {
         System.out.println("Rasgele sayı 5 : " + Math.round(100 * Math.random()));
         System.out.println("Rasgele sayı 6 : " + Math.round(100 * Math.random()));
         System.out.println("Rasgele sayı 7 : " + Math.round(100 * Math.random()));
+        System.out.println("Rasgele sayı 8 : " + Math.round(100 * Math.random()));
 
         int sayi10 = (int) (Math.random() * 11);  // 10 a kadar sayı üretir 0 da dahil
         System.out.println(sayi10);
